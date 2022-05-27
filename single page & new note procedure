@@ -1,3 +1,5 @@
+page_content = markdown.markdown(source, extensions=[FencedCodeExtension()])
+
 single page & new note procedure
 
 title procedure
